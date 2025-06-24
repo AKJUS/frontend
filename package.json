@@ -13,13 +13,13 @@
     "test": "jest"
   },
   "dependencies": {
-    "@braid/vue-formulate": "^2.5.2",
+    "@braid/vue-formulate": "^2.5.3",
     "@braid/vue-formulate-i18n": "^1.16.0",
     "@nuxtjs/axios": "^5.13.1",
     "@nuxtjs/pwa": "^3.3.5",
-    "@nuxtjs/sentry": "^5.0.3",
+    "@nuxtjs/sentry": "^8.0.8",
     "idb": "^6.0.0",
-    "nuxt": "^2.15.5",
+    "nuxt": "^3.16.0",
     "swing": "^3.1.4",
     "vue-shortkey": "^3.1.7",
     "vuex-persistedstate": "^3.2.0"
@@ -35,7 +35,7 @@
     "babel-jest": "^26.6.3",
     "eslint": "^6.1.0",
     "eslint-plugin-nuxt": ">=1.0.0",
-    "jest": "^24.1.0",
+    "jest": "^30.0.2",
     "stylelint": "^13.13.1",
     "vue-jest": "^4.0.0-beta.4"
   }
